@@ -1,0 +1,6 @@
+@import url('./base/reset.css');
+
+@import url('./components/startPage.css');
+@import url('./components/main-section.css');
+
+@import url('./components/footer.css');
