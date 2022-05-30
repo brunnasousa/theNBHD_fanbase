@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="./assets/css/base/reset.css">
     <link rel="stylesheet" href="./assets/css/style.css">
     <link re="stylesheet" href="./assets/css/components/main-section.css">
+    <link re="stylesheet" href="./assets/css/components/form.css">
     <link re="stylesheet" href="./assets/css/components/footer.css">
 </head>
 
@@ -18,7 +19,7 @@
         <div class="container">
 
             <div class="startPage-main">
-                <img class="startPage-main__logo"src="./assets/imgs/logo_theNeighbourhood.jpg" alt="logo da banda The Neighbourhood preto e branco">
+                <img id="logo" class="startPage-main__logo"src="./assets/imgs/logo_theNeighbourhood.jpg" alt="logo da banda The Neighbourhood preto e branco">
                 <h1 class="startPage-main__titulo">The Neighbourhood</h1>
             </div>
     
@@ -43,6 +44,42 @@
                 <iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4zNjP5nsYXhF438DwgEEnZ?utm_source=generator&theme=0" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
                 <iframe width="560" height="315" src="https://www.youtube.com/embed/rWKE-mhpzOs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
             </div>
+        </div>
+
+        <div class="form">
+            
+            <div class="form-descricao">
+                <h1 id="titulo"><strong>Nos ajude a melhorar nossa fan base</strong></h1>
+                <p id="subtitulo">Complete o formulario com suas informações pessoais para poder receber ou ajudar com sugestões o nosso site</p>
+                <br>
+            </div>
+
+            <form>
+                <fieldset class="form-grupo">
+                    <div class="form-campo">
+                        <label for="nome">Digite seu nome: </label>
+                        <input id="nome" type="text" placeholder="Nome" required>
+                    </div>
+    
+                    <div class="form-campo">
+                        <label for="phone">Digite seu numero:</label>
+                        <input id="phone" type="tel" name="phone" placeholder="(xx) xxxxx - xxxx" maxlength="12" onkeypress="if (!isNaN(String.fromCharCode(window.event.keyCode))) return true; else return false;">
+                    </div>
+    
+                    <div class="form-campo"> 
+                        <label for="receberNotificacao">Deseja receber novidades?</label> 
+                        <input id="receberNotificacao" type="radio" name="notificacao" value="sim" checked>Sim
+                        <input id="receberNotificacao" type="radio" name="notificacao" value="nao" checked>Não
+                    </div>
+                    
+                    <div class="form-campo">
+                        <textarea cols="100" rows="10" id="mensagem" placeholder="Digite uma sugestão :)"></textarea>
+                    </div>
+    
+                    <button class="botao" type="submit">Enviar</button>
+                </fieldset>
+                
+            </form>
         </div>
         
     </main>

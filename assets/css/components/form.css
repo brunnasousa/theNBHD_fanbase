@@ -1,0 +1,71 @@
+*{
+    margin: 0;
+    padding:0;
+}
+
+.form{
+    font-family: sans-serif;
+    color: white;
+    margin-left: 7%;
+}
+
+.form-descricao{
+    text-align: center;
+}
+
+#titulo{
+    font-size: 2rem;    
+    padding-bottom: .3rem;
+}
+
+#subtitulo{
+    font-size: 1rem;
+}
+
+input, select, textarea, button{
+    border-radius: 5px;
+}
+
+.form-grupo{
+    margin-left: 18.9%;
+}
+
+.form-campo{
+    margin-bottom: 1rem;
+}
+
+.form-campo label{
+    margin-bottom: 0.2rem;
+    color: silver;
+}
+
+#nome, #phone{
+    padding: .2rem 0 .2rem .3rem;
+}
+
+#mensagem{
+    padding-top: .8rem;
+    padding-left: 1rem;
+}
+
+.botao {
+    font-size: 1.2em;
+    background: gray;
+    border: 0;
+    margin-bottom: 1em;
+    color: #ffffff;
+    padding: 0.2em 0.6em;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.2);
+    text-shadow: 1px 1px 1px rgba(0,0,0,0.5);    
+    margin-left: 30.9%;
+}
+
+.botao:hover {
+    background: #A9A9A9;
+    box-shadow: inset 2px 2px 2px rgba(0,0,0,0.2);
+    text-shadow: none;
+}
+
+.botao, select{
+    cursor: pointer;
+}
