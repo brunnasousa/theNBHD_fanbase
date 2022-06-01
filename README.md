@@ -19,3 +19,5 @@ Possui as seguintes etapas:
 by: Brunna Sousa 
 
 *Este projeto consiste apenas para fins de aprendizado. Os direitos autorais sobre as imagens, musicas e referencias pertencem aos seus respectivos donos.
+
+**Inspirado no site oficial do The Neighbourhood. Disponivel em: https://thenbhd.themerchcollective.com/
