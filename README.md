@@ -2,10 +2,6 @@
     <img alt="imagem do banner do arquivo readme" title="banner-readme" src="./assets/imgs/imagens_base_projeto_readme/readme-banner.jpg" />
 </h1>
 
-<h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./assets/banner.png" />
-</h1>
-
 <h4 align="center"> 
 	🚧 Projeto em construção... 🚧
 </h4>
