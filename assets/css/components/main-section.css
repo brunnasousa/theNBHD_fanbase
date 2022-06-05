@@ -21,3 +21,10 @@
 .main-section__one-spotify{
     margin: 0 5rem 3rem 5rem;
 }
+
+
+@media (max-width: 768px) { 
+    .main-section__one{
+        display: none;
+    }
+}
