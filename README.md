@@ -41,6 +41,9 @@ As seguintes ferramentas foram usadas na construção do projeto até o momento:
 
 - HTML
 - CSS
+  -cores utilizadas:
+    - aliceblue; 
+    
 
 ## 📝 Autor
 Feito com ❤️ por Brunna Sousa 😄 [Entre em contato!](https://www.linkedin.com/in/brunna-sousa/)

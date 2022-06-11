@@ -1,0 +1,71 @@
+.main-section__membros{
+    color:aliceblue;
+}
+
+.main-section__membros-titulo{
+    text-align: center;
+    font-size: 2.2rem;
+    height: 5rem;
+    padding-top: 2rem;
+
+    text-shadow: 2px 09px 5px rgb(63, 23, 102);
+}
+
+.main-section__membro{
+    display: flex;    
+    align-items: center;
+
+    padding-bottom: 1.5rem;
+    padding-left: 16rem;
+
+}
+
+h2,p, a{
+    padding: 0 0 .5rem 1rem;
+}
+
+.main-section__membro-img{
+    max-width: 8rem;
+    border-radius:  .5rem;
+}
+
+.main-section__membro-text{
+    text-shadow: 2px 2px 5px rgb(119, 43, 195);
+}
+
+.main-section__membros{
+    background: url(../../imgs/background_membros03.jpeg) no-repeat;
+    background-size: cover;
+}
+
+
+
+.fa{
+    color:aliceblue;
+    
+}
+
+.fa:hover{
+    font-size: 1rem;
+    color: #868080;
+    transition: color .2s ease;
+}
+
+@media (max-width: 768px) { 
+
+    .main-section__membros{
+        color:rgb(81, 55, 124);
+    }
+    
+    .main-section__membro{
+        display: flex;
+        display: -webkit-flex;
+        justify-content: center;
+        align-items: center;
+
+        padding-bottom: 1.5rem;
+        padding-left: 1rem;
+    }
+    
+
+}
