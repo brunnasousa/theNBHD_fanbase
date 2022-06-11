@@ -1,3 +1,9 @@
+.albuns{
+    
+}
+
+/*---------------------*/
+
 .main-section__one{
     color:aliceblue;
     text-align: center;
@@ -18,6 +24,30 @@
     border-radius: 2.5rem;
 }
 
-.main-section__one-spotify{
+.main-section__one-music{
     margin: 0 5rem 3rem 5rem;
+    display: flex;
+    padding: 1rem;
+
+}
+
+.spotify{
+    padding-right: 2rem;
+}
+
+@media (max-width: 768px) { 
+
+    .main-section__one-music{
+        margin: 0;    
+    }
+
+    .spotify{
+        width: 100%;
+    }
+
+    .youtube{
+        display: none;
+    }
+    
+
 }
