@@ -38,6 +38,8 @@
             <h2 class="main-section__one-theme">Sobre a banda</h2>
             <p class="main-section__one-text">The Neighborhood é uma banda de rock alternativo americana formada em Newbury Park, Califórnia, em 2011.</p>
             <p class="main-section__one-text">A banda é composta pelo vocalista Jesse Rutherford, os guitarristas Jeremy Freedman e Zach Abels, o baixista Mikey Margott e o baterista Brandon Alexander Fried.</p>
+            <p class="main-section__one-text">Entre suas músicas populares se destacam: Sweater Weather, Softcore, Daddy Issues e Prey.</p>
+            <p class="main-section__one-text">Atualmente, a banda se encontra em hiatos que foi anunciado no começo de 2022.</p>
             <img class="main-section__one-logo"src="./assets/imgs/the_nbhd.jfif" alt="capa do album de 2018 ">     
         </div>
 
@@ -89,11 +91,53 @@
             </div>
         </div>
 
-        <div class="albuns">
-            <img class="main-section__one-logo"src="./assets/imgs/exemplo-albuns.png" alt="albuns da banda">
+        <div class="slider">
+            <h2 class="slider-titulo">Albuns da Banda</h2>
+            <div class="slides">
+                
+                <input type="radio" name="radio-btn" id="radio1">
+                <input type="radio" name="radio-btn" id="radio2">
+                <input type="radio" name="radio-btn" id="radio3">
+                <input type="radio" name="radio-btn" id="radio4">
+    
+                <div class="slide first">
+                    <img src="./assets/imgs/album01.png" alt="album1 do the neighbourhood">
+                </div>
+    
+                <div class="slide">
+                    <img src="./assets/imgs//album02.png" alt="album2 do the neighbourhood">
+                </div>
+    
+                <div class="slide">
+                    <img src="./assets/imgs/album03.png" alt="album3 do the neighbourhood">
+                </div>
+    
+                <div class="slide">
+                    <img src="./assets/imgs/album04.png" alt="album4 do the neighbourhood">
+                </div>
+    
+                <div class="navigation-auto">
+                    <div class="auto-btn1"></div>
+                    <div class="auto-btn2"></div>
+                    <div class="auto-btn3"></div>
+                    <div class="auto-btn4"></div>
+                </div>
+    
+                
+            </div>
+    
+            <div class="manual-navigation">
+                <label for="radio1" class="manual-btn"></label>
+                <label for="radio2" class="manual-btn"></label>
+                <label for="radio3" class="manual-btn"></label>
+                <label for="radio4" class="manual-btn"></label>
+            </div>
+    
+    
         </div>
-
-        
+    
+    
+        <script src="./script.js"></script>
 
         <div class="main-section__one-music">
             <iframe class="spotify" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/4zNjP5nsYXhF438DwgEEnZ?utm_source=generator&theme=0" width="50%" height="316" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
@@ -122,8 +166,8 @@
     
                     <div class="form-campo"> 
                         <label for="receberNotificacao">Deseja receber novidades?</label> 
-                        <input id="receberNotificacao" type="radio" name="notificacao" value="nao" checked>Não
                         <input id="receberNotificacao" type="radio" name="notificacao" value="sim" checked>Sim
+                        <input id="receberNotificacao" type="radio" name="notificacao" value="nao">Não
                     </div>
                     
                     
