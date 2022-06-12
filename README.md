@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="imagem do banner do arquivo readme" title="banner-readme" src="./assets/imgs/imagens_base_projeto_readme/readme-banner.jpg" />
+    <img alt="imagem do banner do arquivo readme" title="banner-readme" src="./assets/imgs/imagens_base_projeto_readme/capa_readme.png" />
 </h1>
 
 <h4 align="center"> 
