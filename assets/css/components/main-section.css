@@ -1,15 +1,17 @@
 .main-section__one{
-    color:aliceblue;
+    color: #FFFFFF;
     text-align: center;
+    font-weight: 600;
+    font-style: normal;
 }
 
 .main-section__one-theme{
-    font-size: 2.2rem;
-    padding: .5rem;
+    font-size: 2.3rem;
+    padding: 1.5rem;
 }
 
 .main-section__one-text{
-    padding: .2rem;    
+    padding: .4rem;    
 }
 
 .main-section__one-logo{

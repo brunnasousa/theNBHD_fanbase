@@ -1,5 +1,6 @@
 .main-section__membros{
-    color:aliceblue;
+    color:#FFFFFF;
+    font-weight: 600;
 }
 
 .main-section__membros-titulo{
@@ -8,7 +9,7 @@
     height: 5rem;
     padding-top: 2rem;
 
-    text-shadow: 2px 09px 5px rgb(63, 23, 102);
+    text-shadow: 2px 09px 5px #212834;
 }
 
 .main-section__membro{
@@ -31,7 +32,7 @@ h2,p, a{
 }
 
 .main-section__membro-text{
-    text-shadow: 2px 2px 5px rgb(119, 43, 195);
+    text-shadow: 2px 09px 5px #212834;
 }
 
 .main-section__membros{
@@ -42,13 +43,13 @@ h2,p, a{
 
 
 .fa{
-    color:aliceblue;
+    color:#FFFFFF;
     
 }
 
 .fa:hover{
-    font-size: 1rem;
-    color: #868080;
+    font-size: 1.03rem;
+    color: #4E535D;
     transition: color .2s ease;
 }
 

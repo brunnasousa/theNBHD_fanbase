@@ -32,6 +32,15 @@ Possui as seguintes etapas:
     3- footer: minhas informações pessoais e redes sociais.
 
 
+## 🛠 Ferramentas
+
+As seguintes ferramentas foram usadas na construção do projeto até o momento:
+
+- HTML
+- CSS
+- JS
+
+
 ## 🎨 Layout
 
 O layout da aplicação está disponível no Figma:
@@ -41,13 +50,14 @@ O layout da aplicação está disponível no Figma:
 </a>
 
 
-## 🛠 Ferramentas
+## 🎨 Paleta de cor
 
-As seguintes ferramentas foram usadas na construção do projeto até o momento:
+- #FFFFFF; -> Para os textos
+- #E2E3E4; -> Cor padrão
+- #4E535D; -> Para o hover
+- #212834; -> Para destacar 
+- #6C7078; -> Para o botão
 
-- HTML
-- CSS
-- JS
 
 ## 📝 Autor
 Feito com ❤️ por Brunna Sousa 😄 [Entre em contato!](https://www.linkedin.com/in/brunna-sousa/)

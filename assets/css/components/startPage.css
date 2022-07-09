@@ -1,7 +1,8 @@
 body{
     background: url(../../imgs/BACKGROUND_TN-ILoveYou.webp) no-repeat;
     background-size: cover;
-    font-family: Helvetica,Helvetica Neue,Arial,Lucida Grande,sans-serif;
+    font-family: Helvetica,sans-serif;
+   
 }
 
 .container{
@@ -15,7 +16,7 @@ body{
    
 }
 
-/*-----------------------*/
+
 .startPage-main{
     display: flex;
     align-items: center;
@@ -33,10 +34,10 @@ body{
 .startPage-main__titulo{
     padding-left: .3rem;
     font-size: 2rem;
-    color: #d3d3d3;
+    color: #E2E3E4;
+
     cursor: default;
 }
-/*-----------------------*/
 
 .startPage-nav{ 
     display: flex;
@@ -52,11 +53,11 @@ body{
     font-size: 1rem;
     text-decoration: none;
     font-size: 1.15rem;
-    color: #d3d3d3;
+    color: #E2E3E4;
 }
 
 .startPage-nav__links:hover{
-    color: #363636;
+    color: #4E535D;
     transition: color .2s ease;
 }
 
