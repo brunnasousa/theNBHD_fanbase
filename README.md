@@ -41,7 +41,7 @@ As seguintes ferramentas foram usadas na construção do projeto até o momento:
 - JS
 
 
-## 🎨 Layout
+## 📖 Layout
 
 O layout da aplicação está disponível no Figma:
 
