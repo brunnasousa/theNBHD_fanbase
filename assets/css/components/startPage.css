@@ -2,33 +2,52 @@ body{
     background: url(../../imgs/BACKGROUND_TN-ILoveYou.webp) no-repeat;
     background-size: cover;
     font-family: Helvetica,sans-serif;
-   
 }
 
-.container{
+a,
+a:active,
+a:link,
+a:visited {
+    font-size: 1rem;
+    text-decoration: none;
+    font-size: 1.15rem;
+    color: #E2E3E4;
+}
+
+a:hover{
+    color: #4E535D;
+    transition: color .2s ease;
+}
+
+.startPage{
+    background-color: #000000
+}
+
+.container {
     display:flex;
+    align-items: center;
     justify-content: space-between;
+    max-width: 960px;
+
+    height: 100px;
+
+	margin: 0 auto; 
+	flex-wrap: wrap;
+
     border-bottom: 2px solid #4F4F4F;
-    background: #000000;
 
-    width:100%;
-    height: 85px;
-   
 }
-
 
 .startPage-main{
     display: flex;
     align-items: center;
-}
 
+}
 
 .startPage-main__logo{
     margin: .5rem;
     max-width: 4rem;
     border-radius: .3rem;
-
-    padding: 30px;
 }
 
 .startPage-main__titulo{
@@ -39,48 +58,29 @@ body{
     cursor: default;
 }
 
-.startPage-nav{ 
-    display: flex;
-    align-items: center;
-    justify-content: space-around;
 
-    padding: 0 10rem; 
-    margin-right: 4rem;
-}   
+.startPage-nav__list{
+    display: flex;
+	flex-wrap: wrap;
+}
 
 .startPage-nav__links{
-    margin: 2rem;
-    font-size: 1rem;
-    text-decoration: none;
-    font-size: 1.15rem;
-    color: #E2E3E4;
-}
-
-.startPage-nav__links:hover{
-    color: #4E535D;
-    transition: color .2s ease;
+    padding: 20px;
 }
 
 
 
-@media (max-width: 768px) { 
+@media screen and (max-width: 768px) { 
+    .container{
+        justify-content: flex-start;
+    }
+
     .startPage-main__logo{
         display: none;
     }
-
+    
     .startPage-main__titulo{
         font-size: 1.2rem;
     }
-
-    .startPage-nav{
-        padding: 0;
-        margin: 0;
-    }
-
-    .startPage-nav__links{
-        margin:1rem;
-        font-size: 1rem;
-        font-size: .8rem;
-
-    }
+    
 }

@@ -72,3 +72,10 @@ input, select, textarea, button{
     cursor: pointer;
 }
 
+@media (max-width: 768px) { 
+
+    .form{
+        display: none;
+    }
+    
+}
