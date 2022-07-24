@@ -52,11 +52,20 @@
     .spotify{
         width: 100%;
         height: 400px;
-        padding: 0rem;
+        padding: 1.3rem 0rem 0rem 0rem;
     }
 
 
     .youtube{
         padding-top: .8rem;
+        
     }
+
+    .youtube:nth-child(2){
+		order: -2;
+	}
+	
+	.spotify:nth-child(1){
+		order: -1;
+	}
 }

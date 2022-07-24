@@ -8,6 +8,8 @@
     color: #FFFFFF;
     margin-left: 7%;
     font-weight: 600;
+    max-width: 960px;
+	margin: 0 auto;
 }
 
 .form-descricao{
@@ -17,6 +19,7 @@
 #titulo{
     font-size: 2rem;    
     padding-bottom: .3rem;
+
 }
 
 #subtitulo{
@@ -74,8 +77,34 @@ input, select, textarea, button{
 
 @media (max-width: 768px) { 
 
-    .form{
-        display: none;
+    #titulo {
+        font-size: 1.5rem; 
+        padding-bottom: 0.3rem;
+        margin: 0;
+    }
+
+    .form-descricao{
+        display: flex;
+        flex-wrap: wrap;
+    }
+
+    .form-grupo {
+        margin-left: 2rem;
+
+        display: flex;
+        flex-wrap: wrap;
+        width: 180px;
+
+        
+    }
+
+
+    .form-campo input{
+        margin-top: .5rem;
+    }
+   
+    #mensagem{
+        width: 250px;
     }
     
 }

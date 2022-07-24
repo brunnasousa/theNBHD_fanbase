@@ -8,7 +8,11 @@
 
 ## 🤖 Onde encontrar ?
 
-O projeto está hospedado na propria plataforma do GitHub Pages e pode ser acessado pelo link:  https://www.bit.ly/the-nbhd
+O projeto está hospedado na propria plataforma do GitHub Pages e pode ser acessado pelos links:
+
+- link principal:  https://www.bit.ly/the-nbhd
+
+- link alternativo: https://brunnasousa.github.io/theNBHD_fanbase/
 
 
 ## 💻 Sobre o projeto
@@ -27,7 +31,7 @@ Possui as seguintes etapas:
        - part 2: Informações de cada membro da banda com link para o instagram
        - part 3: discografia da banda - Slider com informações dos 4 albuns principais.
        - part 4: link para minha playlist pessoal no spotify. Ao lado de um video do youtube oficial 'The Neighbourhood - Sweater Weather (Live)'.
-       - part 5: formulario - como forma de interação inicial pedindo sugestões do usuario para uma possivel atualização futura.
+       - part 5: formulario - como forma de interação inicial pedindo sugestões do usuario para uma possivel atualização futura. (inativo no momento)
        
     3- footer: minhas informações pessoais e redes sociais.
 
@@ -69,5 +73,4 @@ Feito com ❤️ por Brunna Sousa 😄 [Entre em contato!](https://www.linkedin.
 **Inspirado no site oficial do The Neighbourhood. Disponivel em: https://thenbhd.themerchcollective.com/
 
 ## 📢 Proximas Etapas
-- Deixar o projeto responsivo;
 - clean code;

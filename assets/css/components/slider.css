@@ -114,9 +114,43 @@
 
 @media (max-width: 768px) { 
 
-    .slider{
+    .slider {
+        width: 400px;
+        height: 350px;
+    }
+
+    .slides {
+        width: 220%;
+        height: 350px;
+        display: flex;
+    }
+
+    .slider-titulo{
+        display: flex;
+        padding: 1.5rem;
+        align-items: center;
+    }
+
+    .slide img {
+        width: 400px;
+    }
+    
+    .manual-navigation {
+       /* width: 400px;
+        margin-top: -1px;*/
+        display: none;
+        
+    }
+
+    .navigation-auto div{
         display: none;
     }
+
+    #radio4:checked ~ .first{
+        margin-left: -50%;
+    }
+    
+    
 }
 
 
