@@ -8,7 +8,7 @@
 
 ## 🤖 Onde encontrar ?
 
-<p>Projeto está hospedado pelo GitHub Pages e você pode acessar pelos <a href="https://www.bit.ly/the-nbhd" target="_blank" rel="external">link.</a> </p>
+<p>O Projeto está hospedado pelo GitHub Pages e você pode acessar pelo <a href="https://www.bit.ly/the-nbhd" target="_blank" rel="external">link.</a> </p>
 
 - link principal: https://www.bit.ly/the-nbhd 
 
@@ -66,7 +66,7 @@ O layout da aplicação está disponível no Figma:
 </a>
 
 
-## 📝 Autor
+## 📝 Autor - Contact
 
 <table>
   <tr>
@@ -83,12 +83,11 @@ O layout da aplicação está disponível no Figma:
   </tr>
 </table>
 
-
 ## 👀 Observações Importantes
 
-* Este projeto consiste apenas para fins de aprendizado. Os direitos autorais sobre as imagens, musicas e referencias pertencem aos seus respectivos donos.
+** Este projeto consiste apenas para fins de aprendizado. Os direitos autorais sobre as imagens, musicas e referencias pertencem aos seus respectivos donos.
 
-** Inspirado no site oficial do [The Neighbourhood.](https://thenbhd.themerchcollective) Disponivel em: https://thenbhd.themerchcollective.com/
+** Inspirado no site oficial do [The Neighbourhood.](https://thenbhd.themerchcollective).
 
 ## 📢 Proximas Etapas
 - clean code;
