@@ -8,22 +8,26 @@
 
 ## 🤖 Onde encontrar ?
 
-O projeto está hospedado na propria plataforma do GitHub Pages e pode ser acessado pelos links:
+<p>Projeto está hospedado pelo GitHub Pages e você pode acessar pelos <a href="https://www.bit.ly/the-nbhd" target="_blank" rel="external">link.</a> </p>
 
-- link principal:  https://www.bit.ly/the-nbhd
+- link principal: https://www.bit.ly/the-nbhd 
 
 - link alternativo: https://brunnasousa.github.io/theNBHD_fanbase/
 
 
 ## 💻 Sobre o projeto
 
-Projeto pessoal inicialmente com HTML e CSS e um pouco de JavaScript.
-
 - O projeto consiste em uma Fanbase de uma das minhas bandas favoritas chamada 'The Neighbourhood'.
 
 Possui as seguintes etapas:
 
-    1- Header: logo + nome + links (home, spotify, instagram, loja) oficiais da banda afim de contribuir na divulgação
+    1- Header:
+
+      - Logo + nome da banda 
+      - Home
+      - Spotify
+      - Instagram
+      - Loja
 
     2- main
 
@@ -40,9 +44,17 @@ Possui as seguintes etapas:
 
 As seguintes ferramentas foram usadas na construção do projeto até o momento:
 
-- HTML
-- CSS
-- JS
+-   [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
+-   [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
+-   [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+
+## 🎨 Paleta de cor
+
+- #FFFFFF; -> Para os textos
+- #E2E3E4; -> Cor padrão
+- #4E535D; -> Para o hover
+- #212834; -> Para destacar 
+- #6C7078; -> Para o botão
 
 
 ## 📖 Layout
@@ -54,23 +66,29 @@ O layout da aplicação está disponível no Figma:
 </a>
 
 
-## 🎨 Paleta de cor
-
-- #FFFFFF; -> Para os textos
-- #E2E3E4; -> Cor padrão
-- #4E535D; -> Para o hover
-- #212834; -> Para destacar 
-- #6C7078; -> Para o botão
-
-
 ## 📝 Autor
-Feito com ❤️ por Brunna Sousa 😄 [Entre em contato!](https://www.linkedin.com/in/brunna-sousa/)
+
+<table>
+  <tr>
+    <td align="center">
+      <p> </p>
+      <a href="https://www.linkedin.com/in/brunna-sousa">
+        <img src="https://avatars.githubusercontent.com/brunnasousa" width="150px;" alt="brunna sousa Github Photo"/><br>
+        <sub> 
+          <b>Feito com ❤️ por Brunna Sousa 😄</b><br>
+          <b>Entre em contato. <a href=https://www.linkedin.com/in/brunna-sousa/" target="_blank" rel="external"></a> </b>
+        </sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
 
 ## 👀 Observações Importantes
 
-*Este projeto consiste apenas para fins de aprendizado. Os direitos autorais sobre as imagens, musicas e referencias pertencem aos seus respectivos donos.
+* Este projeto consiste apenas para fins de aprendizado. Os direitos autorais sobre as imagens, musicas e referencias pertencem aos seus respectivos donos.
 
-**Inspirado no site oficial do The Neighbourhood. Disponivel em: https://thenbhd.themerchcollective.com/
+** Inspirado no site oficial do [The Neighbourhood.](https://thenbhd.themerchcollective) Disponivel em: https://thenbhd.themerchcollective.com/
 
 ## 📢 Proximas Etapas
 - clean code;

@@ -28,7 +28,7 @@
 .slide{
     width: 25%;
     position: relative;
-    transition: 10s;
+    transition: 8s;
 }
 
 .slide img{
@@ -136,8 +136,6 @@
     }
     
     .manual-navigation {
-       /* width: 400px;
-        margin-top: -1px;*/
         display: none;
         
     }
@@ -151,6 +149,14 @@
     }
     
     
+}
+
+@media screen and (max-width: 1024px) { 
+    /*
+    .slide{
+        transition: 20s;
+    }*/
+
 }
 
 
