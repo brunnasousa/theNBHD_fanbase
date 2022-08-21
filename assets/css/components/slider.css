@@ -10,8 +10,8 @@
     font-size: 2.2rem;
     height: 3rem;
     padding-top: 1rem;
-    color:#FFFFFF;
-    text-shadow: 2px 09px 5px #212834;
+    color: var(--branco);
+    text-shadow: 2px 09px 5px var(--azul-escuro);
     font-weight: 600;
 }
 
@@ -56,7 +56,7 @@
 }
 
 .manual-btn:hover{
-    background-color: #fff;
+    background-color: var(--branco);
 }
 
 #radio1:checked ~ .first{
@@ -100,7 +100,7 @@
 }
 
 #radio2:checked ~ .navigation-auto .auto-btn2{
-    background-color: #FFFFFF;
+    background-color: var(--branco);
 }
 
 #radio3:checked ~ .navigation-auto .auto-btn3{ 
@@ -112,7 +112,7 @@
 }
 
 
-@media (max-width: 768px) { 
+@media (max-width: 797px) { 
 
     .slider {
         width: 400px;
@@ -150,13 +150,3 @@
     
     
 }
-
-@media screen and (max-width: 1024px) { 
-    /*
-    .slide{
-        transition: 20s;
-    }*/
-
-}
-
-

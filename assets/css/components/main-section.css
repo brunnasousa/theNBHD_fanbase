@@ -1,5 +1,5 @@
 .main-section__one{
-    color: #FFFFFF;
+    color: var(--branco);
     text-align: center;
     font-weight: 600;
     font-style: normal;
@@ -14,7 +14,8 @@
 }
 
 .main-section__one-text{
-    padding: .4rem;    
+    padding: .4rem;  
+    line-height: 1.3rem; 
 }
 
 .main-section__one-logo{
@@ -39,7 +40,14 @@
     padding-right: 2rem;
 }
 
-@media screen and (max-width: 768px) { 
+@media screen and (max-width: 797px) { 
+    
+    a, a:active, a:link, a:visited {
+        font-size: 1rem;
+        text-decoration: none;
+        color: var(--branco-padrao);
+    }
+
     .main-section__one-logo{
         width: 300px;
     }

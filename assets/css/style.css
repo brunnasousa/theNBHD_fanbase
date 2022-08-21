@@ -1,5 +1,3 @@
-@import url('./base/reset.css');
-
 @import url('./components/startPage.css');
 @import url('./components/main-section.css');
 @import url('./components/slider.css');
@@ -8,3 +6,21 @@
 @import url('./components/footer.css');
 
 @import url('./components/membros.css');
+
+:root {
+    --branco: #FFFFFF;
+    --branco-padrao: #E2E3E4;
+    --preto: #000000;
+    --azul-escuro:#212834;
+    --cinza: #4E535D;
+    --cinza-claro: #808080;
+    --cinza-marrom: #4F4F4F;
+
+    --roxo: rgb(81, 55, 124);
+}
+
+body{
+    background: url(../imgs/BACKGROUND_TN-ILoveYou.png) no-repeat;
+    background-size: cover;
+    font-family: Helvetica,sans-serif;
+}

@@ -1,5 +1,5 @@
 .main-section__membros{
-    color:#FFFFFF;
+    color:var(--branco);
     font-weight: 600;
 }
 
@@ -9,7 +9,7 @@
     height: 5rem;
     padding-top: 2rem;
 
-    text-shadow: 2px 09px 5px #212834;
+    text-shadow: 2px 09px 5px var(--azul-escuro);
 }
 
 .main-section__membro{
@@ -32,7 +32,7 @@ h2,p, a{
 }
 
 .main-section__membro-text{
-    text-shadow: 2px 09px 5px #212834;
+    text-shadow: 2px 09px 5px var(--azul-escuro);
 }
 
 .main-section__membros{
@@ -43,20 +43,20 @@ h2,p, a{
 
 
 .fa{
-    color:#FFFFFF;
+    color:var(--branco);
     
 }
 
 .fa:hover{
     font-size: 1.03rem;
-    color: #4E535D;
+    color: var(--cinza);
     transition: color .2s ease;
 }
 
 @media (max-width: 768px) { 
 
     .main-section__membros{
-        color:rgb(81, 55, 124);
+        color: var(--roxo);
     }
     
     .main-section__membro{

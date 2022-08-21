@@ -85,9 +85,9 @@ O layout da aplicação está disponível no Figma:
 
 ## 👀 Observações Importantes
 
-** Este projeto consiste apenas para fins de aprendizado. Os direitos autorais sobre as imagens, musicas e referencias pertencem aos seus respectivos donos.
+** Inspirado no site oficial do [The Neighbourhood](https://thenbhd.themerchcollective).
 
-** Inspirado no site oficial do [The Neighbourhood.](https://thenbhd.themerchcollective).
+** Este projeto consiste apenas para fins de aprendizado. Os direitos autorais sobre as imagens, musicas e referencias pertencem aos seus respectivos donos.
 
 ## 📢 Proximas Etapas
 - clean code;

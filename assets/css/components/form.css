@@ -1,11 +1,6 @@
-*{
-    margin: 0;
-    padding:0;
-}
-
 .form{
     font-family: Helvetica,sans-serif;
-    color: #FFFFFF;
+    color: var(--branco);
     margin-left: 7%;
     font-weight: 600;
     max-width: 960px;
@@ -40,7 +35,7 @@ input, select, textarea, button{
 
 .form-campo label{
     margin-bottom: 0.2rem;
-    color: #FFFFFF;
+    color: var(--branco);
 }
 
 #nome, #phone{
@@ -57,16 +52,16 @@ input, select, textarea, button{
     background: gray;
     border: 0;
     margin-bottom: 1em;
-    color: #ffffff;
+    color: var(--branco);
     padding: 0.2em 0.6em;
-    box-shadow: 2px 2px 2px #4E535D;
-    text-shadow: 1px 1px 1px #4E535D;  
+    box-shadow: 2px 2px 2px var(--cinza);
+    text-shadow: 1px 1px 1px var(--cinza);  
     margin-left: 30.9%;
 }
 
 .botao:hover {
-    background: #6C7078;
-    box-shadow: inset 2px 2px 2px #4E535D;
+    background: var(--cinza-marrom);
+    box-shadow: inset 2px 2px 2px var(--cinza);
     text-shadow: none;
     transition: color .2s ease;
 }
