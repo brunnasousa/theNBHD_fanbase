@@ -20,14 +20,14 @@ https://user-images.githubusercontent.com/83245464/196441310-f465c585-e05c-4923-
 
 ## 💻 Sobre o projeto
 
-- O projeto consiste em uma Fanbase de uma das minhas bandas favoritas chamada 'The Neighbourhood'.
+- O projeto consiste em uma Fanbase de uma das minhas bandas favoritas de rock alternativo chamada 'The Neighbourhood'.
 
-Possui as seguintes etapas:
+- O website está dividido nas seguintes etapas: 
 
-    1- Header:
+    1- Header - Links oficial da banda:
 
       - Logo + nome da banda 
-      - Home
+      - Site
       - Spotify
       - Instagram
       - Loja
@@ -37,11 +37,9 @@ Possui as seguintes etapas:
        - part 1: Sobre a banda com informações gerais e basicas
        - part 2: Informações de cada membro da banda com link para o instagram
        - part 3: discografia da banda - Slider com informações dos 4 albuns principais.
-       - part 4: link para minha playlist pessoal no spotify. Ao lado de um video do youtube oficial 'The Neighbourhood - Sweater Weather (Live)'.
-       - part 5: formulario - como forma de interação inicial pedindo sugestões do usuario para uma possivel atualização futura. (inativo no momento)
+       - part 4: link para minha playlist pessoal no spotify. Ao lado de um video do youtube oficial 'The Neighbourhood - Sweater Weather (Live)'.s
        
-    3- footer: minhas informações pessoais e redes sociais.
-
+    3- footer: informações Developed
 
 ## 🛠 Ferramentas
 
@@ -50,6 +48,7 @@ As seguintes ferramentas foram usadas na construção do projeto até o momento:
 -   [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 -   [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
 -   [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+-   [Bootstrap](https://getbootstrap.com/)
 
 ## 🎨 Paleta de cor
 
@@ -88,10 +87,10 @@ O layout da aplicação está disponível no Figma:
 
 ## 👀 Observações Importantes
 
-** Inspirado no site oficial do [The Neighbourhood](https://thenbhd.themerchcollective).
+** Inspirado no site oficial do [The Neighbourhood](https://shop.thenbhd.com/).
 
-** Este projeto consiste apenas para fins de aprendizado. Os direitos autorais sobre as imagens, musicas e referencias pertencem aos seus respectivos donos.
+** Este projeto consiste apenas para fins de aprendizado e divulgação da banda. Os direitos autorais sobre as imagens, musicas e referencias pertencem aos seus respectivos donos.
 
-## 📢 Proximas Etapas
+## 📢 Etapas atuais do projeto
 - Bootstrap;
 - clean code;
