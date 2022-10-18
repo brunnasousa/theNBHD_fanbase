@@ -6,6 +6,10 @@
 	🚧 Projeto em construção... 🚧
 </h4>
 
+<p align="center"> 
+Atualização nov/22 - Migração para o framework bootstrap (branch bootstrap) 
+</p>
+
 ## 🤖 Onde encontrar ?
 
 <p>O Projeto está hospedado pelo GitHub Pages e você pode acessar pelo <a href="https://www.bit.ly/the-nbhd" target="_blank" rel="external">link.</a> </p>
