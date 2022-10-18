@@ -15,6 +15,9 @@
 - link alternativo: https://brunnasousa.github.io/theNBHD_fanbase/
 
 
+https://user-images.githubusercontent.com/83245464/196439190-5960cdbb-8fe4-41d3-afbe-55565be4c36b.mp4
+
+
 ## 💻 Sobre o projeto
 
 - O projeto consiste em uma Fanbase de uma das minhas bandas favoritas chamada 'The Neighbourhood'.
@@ -90,4 +93,5 @@ O layout da aplicação está disponível no Figma:
 ** Este projeto consiste apenas para fins de aprendizado. Os direitos autorais sobre as imagens, musicas e referencias pertencem aos seus respectivos donos.
 
 ## 📢 Proximas Etapas
+- Bootstrap;
 - clean code;
