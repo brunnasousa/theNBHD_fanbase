@@ -15,7 +15,7 @@
 - link alternativo: https://brunnasousa.github.io/theNBHD_fanbase/
 
 
-https://user-images.githubusercontent.com/83245464/196439190-5960cdbb-8fe4-41d3-afbe-55565be4c36b.mp4
+https://user-images.githubusercontent.com/83245464/196441310-f465c585-e05c-4923-80ec-6cd3a2ab8c67.mp4
 
 
 ## 💻 Sobre o projeto
