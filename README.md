@@ -71,6 +71,27 @@ O layout da aplicação está disponível no Figma:
   <img alt="Made by brunna sousa" src="https://img.shields.io/badge/Acessar%20Layout%20-Figma-%2304D361">
 </a>
 
+## 🕵️‍♀️ Passos seguidos para o Bootstrap 5
+- [Site](https://getbootstrap.com/)
+
+- Include via CDN:
+```html
+<!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-Zenh87qX5JnK2Jl0vWa8Ck2rdkQ2Bzep5IDxbcnCeuOxjzrPF/et3URy9Bv1WTRi" crossorigin="anonymous">
+<!-- JavaScript Bundle with Popper -->
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js" integrity="sha384-OERcA2EqjJCMA+/3y+gxIOqMEjwtxJY7qPCqsdltbNJuaOe923+mo//f6V8Qbsw3" crossorigin="anonymous"></script>
+```
+- [Icons Bootstrap](https://icons.getbootstrap.com/#install)
+```html
+<!-- Icons via CDN -->
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+```
+
+- [font awesome](https://fontawesome.com/o)
+```html
+<script src="https://kit.fontawesome.com/bf7e05c402.js" crossorigin="anonymous"></script>
+```
+
 
 ## 📝 Autor - Contact
 

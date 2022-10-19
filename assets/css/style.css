@@ -1,3 +1,4 @@
+
 @import url('./components/startPage.css');
 @import url('./components/main-section.css');
 @import url('./components/slider.css');
@@ -20,7 +21,7 @@
 }
 
 body{
-    background: url(../imgs/BACKGROUND_TN-ILoveYou.png) no-repeat;
+    background: url(../imgs/BACKGROUND_TN-ILoveYou.webp) no-repeat;
     background-size: cover;
     font-family: Helvetica,sans-serif;
 }
