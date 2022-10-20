@@ -41,7 +41,7 @@ https://user-images.githubusercontent.com/83245464/196441310-f465c585-e05c-4923-
        - part 1: Sobre a banda com informações gerais e basicas
        - part 2: Informações de cada membro da banda com link para o instagram
        - part 3: discografia da banda - Slider com informações dos 4 albuns principais.
-       - part 4: link para minha playlist pessoal no spotify. Ao lado de um video do youtube oficial 'The Neighbourhood - Sweater Weather (Live)'.s
+       - part 4: link para minha playlist pessoal no spotify. Ao lado de um video do youtube oficial 'The Neighbourhood - Sweater Weather (Live)'
        
     3- footer: informações Developed
 

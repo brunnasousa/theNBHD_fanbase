@@ -1,0 +1,22 @@
+#logo {
+    width: 60px;
+}
+
+.navbar{
+    background-color: var(--preto);
+}
+
+.navbar-brand{
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+}
+
+.logo-text {
+    padding-left: 25px;
+    font-size: 25px;
+}
+
+.nav-link{
+    margin: 0 20px;
+}
